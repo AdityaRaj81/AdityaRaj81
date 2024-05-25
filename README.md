@@ -64,6 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![eraditya's GitHub | Stats](https://stats.quine.sh/eraditya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=eraditya)
 
+[![eraditya's GitHub | Languages Over Time](https://stats.quine.sh/eraditya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=eraditya)
 
 <!--
 ## Hi there 👋
