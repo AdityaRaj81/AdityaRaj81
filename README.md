@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=theadityaway&label=Profile%20views&color=0e75b6&style=flat" alt="theadityaway" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
+<h1 align="center">Hello World! 👋, I'm Aditya Raj</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -59,6 +59,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityaraj81&theme=juicyfresh&no-bg=true" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adityaraj81&theme=transparent&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=200)](https://git.io/streak-stats)
 
