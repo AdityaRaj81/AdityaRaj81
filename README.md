@@ -19,7 +19,10 @@
 <img src="https://komarev.com/ghpvc/?username=theadityaway&label=Profile%20views&color=0e75b6&style=flat" alt="theadityaway" />
 </div>
 
-<h1 align="center">Hello World! 👋, I'm Aditya Raj</h1>
+<h1 align="center">Hello World! 👋, Namaste from Bharat</h1>
+<h2 align="center">I'm Aditya Raj</h2>
+
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
