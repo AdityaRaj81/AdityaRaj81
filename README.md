@@ -16,7 +16,9 @@
 
 <div id="count" align="center">
 <img src="https://komarev.com/ghpvc/?username=AdityaRaj81&style=flat-square&color=blue" alt=""/>
-<img src="https://komarev.com/ghpvc/?username=theadityaway&label=Profile%20views&color=0e75b6&style=flat" alt="theadityaway" />
+<!--
+  <img src="https://komarev.com/ghpvc/?username=theadityaway&label=Profile%20views&color=0e75b6&style=flat" alt="theadityaway" />
+  -->
 </div>
 
 <h1 align="center">Hello World! 👋, Namaste from Bharat</h1>
@@ -67,8 +69,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adityaraj81&theme=transparent&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=200)](https://git.io/streak-stats)
 
-[![eraditya's GitHub | Stats](https://stats.quine.sh/eraditya/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=eraditya)
+[![AdityaRaj81's GitHub | Stats](https://stats.quira.sh/AdityaRaj81/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AdityaRaj81)
 
+<!--
 [![eraditya's GitHub | Languages Over Time](https://stats.quine.sh/eraditya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=eraditya)
 
 <!--
