@@ -69,6 +69,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adityaraj81&theme=transparent&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=200)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdityaRaj81&theme=react&hide_border=true)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AdityaRaj81&theme=react&hide_border=true" alt="GitHub Streak" /></a>
+
 [![AdityaRaj81's GitHub | Stats](https://stats.quira.sh/AdityaRaj81/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AdityaRaj81)
 
 <!--
