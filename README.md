@@ -65,6 +65,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adityaraj81&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adityaraj81&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj81&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=adityaraj81&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 <img src="https://github-profile-trophy.vercel.app/?username=adityaraj81&theme=juicyfresh&no-bg=true" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adityaraj81&theme=transparent&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=200)](https://git.io/streak-stats)
