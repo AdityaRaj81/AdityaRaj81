@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+
+
 <div id="count" align="center">
   <img src="https://komarev.com/ghpvc/?username=AdityaRaj81&style=flat-square&color=blue" alt=""/>
 </div>
@@ -93,7 +95,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraj81&show_icons=true&locale=en&layout=compact" alt="Aditya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraj81&show_icons=true&locale=en" alt="Aditya" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj81&theme=dark&hide_border=false" alt="Aditya" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj81&theme=dark&hide_border=false" alt="Aditya" /></p> -->
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=adityaraj81&theme=dark&hide_border=false" alt="GitHub Streak" />
+</a>
 
 [![AdityaRaj81's GitHub | Stats](https://stats.quira.sh/AdityaRaj81/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AdityaRaj81)
 [![eraditya's GitHub | Languages Over Time](https://stats.quine.sh/eraditya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=eraditya)
