@@ -101,7 +101,11 @@
   <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=adityaraj81&theme=dark&hide_border=false" alt="GitHub Streak" />
 </a>
 
+</br>
+<br>
+
 [![AdityaRaj81's GitHub | Stats](https://stats.quira.sh/AdityaRaj81/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AdityaRaj81)
+
 [![eraditya's GitHub | Languages Over Time](https://stats.quine.sh/eraditya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=eraditya)
 
 ---
