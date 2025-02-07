@@ -7,6 +7,10 @@
 <div id="count" align="center">
   <img src="https://komarev.com/ghpvc/?username=AdityaRaj81&style=flat-square&color=blue" alt=""/>
 </div>
+<div align="center">
+
+  <a href="https://wakatime.com/@46ec7017-72b0-4ce6-90bc-096dbb50beaf"><img src="https://wakatime.com/badge/user/46ec7017-72b0-4ce6-90bc-096dbb50beaf.svg" alt="Total time coded since Aug 26 2024" /></a>
+</div>
 
 <h1 align="center">Hello World! 👋, Namaste from Bharat</h1>
 <h2 align="center">I'm Aditya Raj</h2>
