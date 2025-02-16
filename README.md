@@ -97,21 +97,30 @@
 
 ## 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraj81&show_icons=true&locale=en&layout=compact" alt="Aditya" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraj81&show_icons=true&locale=en" alt="Aditya" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj81&theme=dark&hide_border=false" alt="Aditya" /></p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraj81&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=adityaraj81&theme=dark&hide_border=false" alt="GitHub Streak" />
-</a>
+<p align="center">
+  <img src="https://stats.quira.sh/AdityaRaj81/github?theme=dark" alt="GitHub Stats" />
+</p>
 
-</br>
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj81&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github" alt="GitHub Stats" />
+</p>
 
-[![AdityaRaj81's GitHub | Stats](https://stats.quira.sh/AdityaRaj81/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AdityaRaj81)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj81&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
-[![eraditya's GitHub | Languages Over Time](https://stats.quine.sh/eraditya/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=eraditya)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AdityaRaj81" alt="WakaTime Stats" />
+</p>
+
+<p align="center">
+  <img src="https://stats.quine.sh/eraditya/languages-over-time?theme=dark" alt="Languages Over Time" />
+</p>
+
 
 ---
 ## ✍️ Random Dev Quote
