@@ -101,9 +101,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraj81&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://stats.quira.sh/AdityaRaj81/github?theme=dark" alt="GitHub Stats" />
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityaraj81&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github" alt="GitHub Stats" />
@@ -117,23 +119,28 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AdityaRaj81" alt="WakaTime Stats" />
 </p>
 
+<!--<img width="1024" height="1024" alt="Logo_3" src="https://github.com/user-attachments/assets/56136bdc-1921-4d1c-af69-0781a8c6ecf0" />
+
 <p align="center">
   <img src="https://stats.quine.sh/eraditya/languages-over-time?theme=dark" alt="Languages Over Time" />
 </p>
+-->
 
 
 ---
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityaraj81&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- [![](https://visitcount.itsvg.in/api?id=adityaraj81&icon=0&color=0)](https://visitcount.itsvg.in)-->
+[![](https://visitcount.itsvg.in/api?id=adityaraj81&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## :handshake:Contributions
+## :handshake: Contributions
 
-Dive into my repositories to explore projects where passion meets purpose. Let's collaborate and innovate together!
+Explore my repositories to discover projects where passion meets purpose. Let's collaborate and innovate together!
 
 <p align="center">Thank you for visiting my profile!</p>
 <p align="center">Let’s create something amazing together!</p>
