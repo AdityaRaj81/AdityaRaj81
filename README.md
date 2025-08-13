@@ -112,14 +112,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj81&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AdityaRaj81" alt="WakaTime Stats" />
 </p>
 
-<!--<img width="1024" height="1024" alt="Logo_3" src="https://github.com/user-attachments/assets/56136bdc-1921-4d1c-af69-0781a8c6ecf0" />
+
+
+<!--
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj81&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+
+<img width="1024" height="1024" alt="Logo_3" src="https://github.com/user-attachments/assets/56136bdc-1921-4d1c-af69-0781a8c6ecf0" />
 
 <p align="center">
   <img src="https://stats.quine.sh/eraditya/languages-over-time?theme=dark" alt="Languages Over Time" />
