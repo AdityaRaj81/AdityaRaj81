@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
-
 <div id="count" align="center">
   <img src="https://komarev.com/ghpvc/?username=AdityaRaj81&style=flat-square&color=blue" alt=""/>
 </div>
@@ -69,7 +67,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -101,12 +98,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraj81&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<!--
-<p align="center">
-  <img src="https://stats.quira.sh/AdityaRaj81/github?theme=dark" alt="GitHub Stats" />
-</p>
--->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityaraj81&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github" alt="GitHub Stats" />
 </p>
@@ -116,21 +107,6 @@
 </p>
 
 
-
-<!--
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj81&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-
-<img width="1024" height="1024" alt="Logo_3" src="https://github.com/user-attachments/assets/56136bdc-1921-4d1c-af69-0781a8c6ecf0" />
-
-<p align="center">
-  <img src="https://stats.quine.sh/eraditya/languages-over-time?theme=dark" alt="Languages Over Time" />
-</p>
--->
-
-
 ---
 ## ✍️ Random Dev Quote
 
@@ -138,18 +114,9 @@
 
 
 ## 🏆 GitHub Trophies
-<!--
-![](https://github-profile-trophy.vercel.app/?username=adityaraj81&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
--->
+
 
 ![](https://github-profile-trophy.vercel.app/?username=adityaraj81&theme=darkhub&no-frame=true&margin-w=4)
-
-
-<!--
-[![](https://visitcount.itsvg.in/api?id=adityaraj81&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Profile Views](https://komarev.com/ghpvc/?username=adityaraj81&color=blue)
--->
 
 ## :handshake: Contributions
 
