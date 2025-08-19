@@ -101,11 +101,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraj81&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<!--
-<p align="center">
-  <img src="https://stats.quira.sh/AdityaRaj81/github?theme=dark" alt="GitHub Stats" />
-</p>
--->
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityaraj81&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github" alt="GitHub Stats" />
@@ -125,9 +121,7 @@
 
 <img width="1024" height="1024" alt="Logo_3" src="https://github.com/user-attachments/assets/56136bdc-1921-4d1c-af69-0781a8c6ecf0" />
 
-<p align="center">
-  <img src="https://stats.quine.sh/eraditya/languages-over-time?theme=dark" alt="Languages Over Time" />
-</p>
+
 -->
 
 
