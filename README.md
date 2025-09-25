@@ -15,6 +15,8 @@
 <div align="center">
   
   [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=red&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34675)](https://codetime.dev)
+
+  [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=red&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34675%26language%3DJAVA)](https://codetime.dev)
   
 </div>
 
