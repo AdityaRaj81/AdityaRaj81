@@ -12,6 +12,15 @@
   <a href="https://wakatime.com/@AdityaRaj81-72b0-4ce6-90bc-096dbb50beaf"><img src="https://wakatime.com/badge/user/46ec7017-72b0-4ce6-90bc-096dbb50beaf.svg" alt="Total time coded since Aug 26 2024" /></a>
 </div>
 
+<div align="center">
+  
+  [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=red&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34675)](https://codetime.dev)
+  
+</div>
+
+
+
+
 <h1 align="center">Hello World! 👋, Namaste from Bharat</h1>
 <h2 align="center">I'm Aditya Raj</h2>
 <h3 align="center">Driven by curiosity, passion, and the joy of turning ideas into reality.</h3>
@@ -110,6 +119,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AdityaRaj81" alt="WakaTime Stats" />
 </p>
+
+
+
 
 
 
