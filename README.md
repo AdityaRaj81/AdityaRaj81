@@ -11,12 +11,11 @@
 
   <a href="https://wakatime.com/@AdityaRaj81-72b0-4ce6-90bc-096dbb50beaf"><img src="https://wakatime.com/badge/user/46ec7017-72b0-4ce6-90bc-096dbb50beaf.svg" alt="Total time coded since Aug 26 2024" /></a>
 </div>
-
 <div align="center">
   
   [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=red&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34675)](https://codetime.dev)
 
-  [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=red&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34675%26language%3DJAVA)](https://codetime.dev)
+  [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=green&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34675%26language%3DJAVA)](https://codetime.dev)
   
 </div>
 
