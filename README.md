@@ -105,6 +105,10 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+
+<!--
+
+
 ## 📊 GitHub Stats:
 
 <p align="center">
@@ -123,7 +127,7 @@
 
 
 
-
+-->
 
 
 <!--
@@ -139,13 +143,16 @@
 
 
 ---
+
+<!--
 ## ✍️ Random Dev Quote
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-## 🏆 GitHub Trophies
+-->
 <!--
+## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=adityaraj81&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 -->
 
